@@ -1,3 +1,4 @@
+package AtcoderP;
 import java.util.*;
 
 class *Javahash {

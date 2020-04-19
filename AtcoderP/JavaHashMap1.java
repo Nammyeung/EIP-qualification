@@ -1,4 +1,7 @@
+package AtcoderP;
 import java.util.*;
+
+import TryHelloWorld;
 
 class JavaHashMap1{
     public String getDayName(int month, int day)

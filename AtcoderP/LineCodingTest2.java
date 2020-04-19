@@ -1,3 +1,4 @@
+package AtcoderP;
 
 public class LineCodingTest2 {
 

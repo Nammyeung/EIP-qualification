@@ -1,3 +1,4 @@
+package AtcoderP;
 class Solution {
     public int[] solution(int[][] v) {
         int x;
